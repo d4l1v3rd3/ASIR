@@ -169,6 +169,22 @@ Debe estar diseñado y optimizado para satisfacer una serie de necesidades al us
 
 ## TIPOS DE APLICACIONES
 
+### Aplicaciones de control
+
+Coordinan y administran el funcionamientos de los elementos del sistema (memoria, almacenamiento, etc)
+
+- Gestión del procesador: Encargados de las peticiones que llegan al prcesaodr.
+- Gestión de memoria: Asignan y monitorizan almacenamiento de datos en la memoria.
+- Gestión de entradas/salidas: Aplicación que se encarga de funcionamiento y gestión de información que "entra" y "sale"
+- Gestión de datos: Encargado en la operacion como copiar, modificar, eliminar, etc.
+- Gestión del sistema: Supervistan al resto de aplicaciones para una buena ejecución
+
+### Aplicaciones de proceso
+
+Sirven a los desarrolladores para crear nuevas aplicaciones y para darle al usuario una forma más óptima
+
+- Traductores: 
+
 
 
 
