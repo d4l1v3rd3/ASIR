@@ -136,5 +136,39 @@ SELECT persona FROM empresa WHERE sueldo>1000;
 
 ## Tipos de usuarios y de lenguajes de bases de datos.
 
+### Administrador de base de datos
+
+El usuario es el encargado de la gestión de bases de datos, incluye creación de usuarios, permisos, monitoreo, configuración y mantenimiento.
+
+### desarrollador de aplicaciones
+
+Utiliza la BD para crear aplicaciones y programas que interactúen con la misma. Diseña y desarrolla aplicaiones que utilizan la información de la BD
+
+### Usuario final
+
+Usuario que utilizara la aplicación para acceder a la BD.
+
+### Analista de datos
+
+Obtiene la información significativa a partir de datos almacenados, análisis de datos, creación de informes, identificación.
+
+### Usuario de consulta
+
+Solo realiza consultas directivas sobre información almacenada en la BD, tienen conocimientos ténicos de BD y SQL
+
+## LENGUAJES
+
+### Lenguajes declarativos
+
+Se utilizan para definir qué es lo que se quiere hacer con los datos, sin especificar como hacerlo. Se centran en la descripción del resultado deseado y no a la secuencia de instrucciones necesarias (SQL)
+
+### Lenguajes Imperativos
+
+Se utilizan para definir cómo se deben realizar las tareas en una BD. Se centran en la secuencia de instrucciones que tiene que hacer el resultado (java, Python, PHP y C#)
+
+![image](https://github.com/user-attachments/assets/31fe881b-19e6-48a2-803e-ed5f23eab0aa)
+
+
+
 
 
