@@ -168,6 +168,128 @@ Se utilizan para definir cómo se deben realizar las tareas en una BD. Se centra
 
 ![image](https://github.com/user-attachments/assets/31fe881b-19e6-48a2-803e-ed5f23eab0aa)
 
+Los lenguajes declarativos son más fáciles de aprender y utilizarlo para tareas específicas de la BD, como consultar y actualizaciones de datos.
+
+Por otro lado los lenguajes procedurales son más flexibles y permiten una programación más compleja y avanzada.
+
+# NOSQL
+
+Utilizan diversos modelos de datos para almacenar y recuperar la información, como documentos, columnas, claves-valor.
+
+## MongoDB
+
+Se basa en el formato de documentos BSON y permite buscar y manipular datos almacenados en MongoDB
+
+## Cassandra
+
+Se parece a SQL en sinstaxis, pero optimizado para trabajar con grandes datos distribuidos.
+
+## Apache CouchDB
+
+Utiliza JS como lenguaje de consulta para acceder y manipular datos almacenados de la BD.
+
+## Neo4j
+
+Realiza las consultas a través de Cypher, un lenguaje específico para bases de datos de grafos que permite buscar y manipular datos.
+
+# SQL
+
+Los lenguajes SQL se utilizan para crear, modificar y eleminar bases de datos y sus objetos (tablas, vistas e indices)
+
+## Mysql
+
+Sistema de gestión de bases de datos relacionales de código abierto utilizando SQL
+
+## Oracle Database
+
+Sistema de gestión de bases de datos relacionales desarrollado por Oracle también usa SQL
+
+## Microsoft SQL Server
+
+Sistema de gestión de baes de datos relacionales desarrollado por Microsoft utiliza SQL
+
+## PostgreSQL
+
+Sistema de gestión de bases de datos relacionales de código abierto utiliza SQL
+
+## SQLite
+
+Sistema de gestión de bases de datos relaciones ligero utiliza el lenguaje SQL.
+
+![image](https://github.com/user-attachments/assets/095ec8af-bea9-4620-8379-a1a8400128d5)
+
+![image](https://github.com/user-attachments/assets/b072dc3a-cfff-4620-8a1f-75c70d428b00)
+
+# Diccionario de datos: concepto, contenidos, tipo y uso
+
+Un diccionario de datos es el lugar donde se almacena la información referente a todos los datos que forman la base de datos.
+
+Es una herramienta de administración y gestion de BD.
+
+Contenido:
+
+- Tablas y vistas: Nombre de tabla, número columnas, nombres, etc.
+- Índices: Nombre índice, tabla a la que pertenece, columnasm etc.
+- Procedimientos almacenados y funciones: Nombre de procedimiento o función, parámetros, etc.
+- Usuarios y permisos: Nombre de usuario, roles y privilegios de acceso.
+- Configuración de la base de datos: Tamaño y ubicación de los archivos de datos y de registro.
+
+Tipos de diccionario de datos:
+
+- Diccionaro de datos interno: Integrado en el sistema de BD y se utiliza para almacenar información sobre la propia BD.
+- Diccionario de datos externo: Base de datos separada que contiene información adicional sobre la BD principal.
+
+Funciones:
+
+- Ayuda en la planificación y diseño
+- Facilita el mantenimiento y administración de BD.
+- Proporciona información esencial para los desarrolladores.
+
+# Arquitectura ANSI/X3/SPARC: nivel interno, nivel conceptual y nivel externo
+
+Es un modelo conceptual de arquitectura de base de datos que se utiliza para describir cómo se organiza y se accede a una BD.
+
+Compuesta por tres niveles: 
+
+![image](https://github.com/user-attachments/assets/ad8c63b7-95d6-48ac-ac57-190e64e56cec)
+
+## Nivel Interno
+
+Cómo se almacenan los datos físicamente, describe la estructura de almacenamiento físico de los datos.
+
+## Nivel Conceptual
+
+Alude a cómo se organizan los datos lógicamente, describe la estructura de datos de manera abstracta, independientemente del hardware o software utilizado para almacenarla.
+
+## Nivel externo
+
+Señala cómo los usuarios acceden a los datos de la BD. Proporciona una vista personalizada de la base de adtos para cada usuario o grupo de usuarios.
+
+# Modelos de baes de datos: jerárquico, red y relacional
+
+El modelo relacional es el más utilizado para la creacion de BD. Consiste en una estructura de los datos de manera que todo están relacionados entre sí y agrupados en tuplas.
+
+![image](https://github.com/user-attachments/assets/59453228-14ab-4e05-bad8-14fc63b9333f)
+
+El sistema jerárquico es un medelo de almacenamiento de datos en el que la información se organiza como un árbol, donde el nodo padre contiene a sus "hijos"
+
+Para acceder a los datos se sigue una ruta padre-hijo desde el nodo "padre", dificultad de controlar la dupliación de datos y posible afectación a la integridad.
+
+![image](https://github.com/user-attachments/assets/d65b5ec2-812b-4a1a-9540-ff721fc62b16)
+
+El modelo de red también utiliza las referencias a otros nodos padre para construir los registros almacenados. La diferencia que con el modelo jerárquico un nodo puede tener más de un padre haciendolo más flexible.
+
+![image](https://github.com/user-attachments/assets/f8afe86c-3392-4dbd-a404-911642c779bf)
+
+# Bases de datos centralizadas y bases de datos distribuidas, 
+
+Dependiendo de los componentes de la BD están ubicados en una misma máquina o bien distribuidos, la BD se clasifica en centralizadas o distribuidas.
+
+![image](https://github.com/user-attachments/assets/fbbc12e7-07a6-47ca-a8cf-4fcc97ae789f)
+
+Con datos distribuidos en varios lugares, se utiliza un proceso llamado fragmentación, que puede llevarse a caso de diversas formas: horizontal, vertical o mixta.
+
+![image](https://github.com/user-attachments/assets/3039c91f-82cc-4817-9634-a4e6bb50dfab)
 
 
 
