@@ -17,5 +17,53 @@ Una base de datos es un sistema de almacenamiento de información estructurada y
 - Respaldo y recuperación (Copias de seguridad, o importar o exportar datos)
 - Acceso a través de lenguajes de programación (acceso simultáneo dando igual el lenguaje)
 
+# Lenguajes
+
+## SQL
+
+Lenguaje de bases de datos utilizado para controlar y manejar la estructura de la BD
+
+Structured Quert Languaje (Lenguaje de consultas estructuradas)
+
+## Sitemas gestores de bases de datos SGBD
+
+Software de servidor de datos que permite administrar los lenguajes
+
+- Motor SQL (Ejecución de comandos)
+- Índice (estrucutración)
+- Integridad referencial
+- Seguridad
+- Acciones programadas
+
+Todos los SGBD utilizan la misma sintaxis de SQL:
+
+- MySQL
+- Microsoft SQL Server
+- Oracle Database
+- MongoDB
+- SQLite
+- PostgreSQL
+- MariaDB
+
+## Clientes de BD
+
+Programas que disponen de GUI, facilitando la comunicación con los SGBD (A sí no tenemos que utilizar todos los comandos de SQL)
+
+- PHPmyADMIN
+- Workbench
+- Microsoft Acess
+- dBase
+- FileMaker
+
+# Sublenguajes de SQL
+
+Divididos en encargarse todas las funciones del lenguaje SQL
+
+Eng | Esp | Explicación | Comandos
+--- | --- | --- | ---
+DDL (Data definition Language) | LDD (Lenguaje de definición de datos) | Definición y modificación de la estructura de los elementos | CREATE, RENAME, DROP, ALTER
+DML (Data Manipulation Language) | LMD (Lenguaje de manipulación de datos) | Consulta y modificación de los datos | INSERT, UPDATE, DELETE, SELECT
+DCL (Data Control Language) | LCD (Lenguaje de control de datos) | Controlar permisos de acceso a los datos | GRANT, REVOKE
 
 
+# Componentes SQL
