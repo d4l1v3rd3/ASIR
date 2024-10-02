@@ -67,3 +67,16 @@ DCL (Data Control Language) | LCD (Lenguaje de control de datos) | Controlar per
 
 
 # Componentes SQL
+
+- Tablas: Colecciones de datos que estan esctructuras en filas y columnas. (Denominadas Campos) Indicando el tipo de dato que contine.
+- Registro: Conjunto de datos asociativos, enlazados entre sí (No pudiendose intercambiar con otros)
+- Entidad de datos: Cada tabla almacena esto mismo si hay muchas
+
+# Operaciones básicas SQL
+
+BBDD | Tablas | Campos | Registros | DESCRIPCIÓN
+--- | --- | ---| --- | --- |
+CREATE DATABASE | CREATE TABLE | ALTER TABLE ADD | INSERT | CREAR
+... | RENAME TABLE | ALTER TABLE CHANGE | UPDATE | MODIFICAR
+DROP DATABASE | DROP TABLE | ALTER TABLE DROP | DELETE | BORRAR
+... | ... | ... | SELECT | CONSULTAR
