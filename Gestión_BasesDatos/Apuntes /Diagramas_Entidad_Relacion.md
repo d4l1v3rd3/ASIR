@@ -62,5 +62,30 @@ conducir
 profesor - Impartir - Asignaturas
 ```
 
+Relación entre profesor - Asignaturas, establecemos el valor minimo y valos maximo de cada relación (Siempre valores maximos al acabar)
+
+```
+el profesor puede impartir muchas asignaruas ó pocas asignaturas
+```
+(0,N)
+```
+La asignatura es impartida por un profesor como minimo y como máximo
+```
+(1,1)
+
+Relación : (1,N) (Uno a varios)
+
+## Tipos de cardinalidad de la relación
+
+- Uno a uno = Trabajador (0,1) - "Aparcar" - Plaza (0,0) = (1,1) "Puede el trabajado tener una plaza o no"
+- Uno a varios = Equipo (0,1) - "Pertenece" - Jugador (2,N) = (1,N) "Puede el jugador tener o no un equipo pero el equipo tiene que tener 2 o + jugadores"
+- Varios a Varios = Coche (0,N) - "Conducir" - Conductor (0,N) = (N,N) "El conductor puede conducir 1 o + igual que puede tener 1 o + coches"
+
+![image](https://github.com/user-attachments/assets/f7850849-344b-4065-80ad-6e9b8d29b4e0)
+
+
+
+ 
+
 
 
