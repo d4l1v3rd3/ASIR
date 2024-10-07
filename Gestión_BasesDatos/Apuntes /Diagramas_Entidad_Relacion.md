@@ -83,8 +83,20 @@ Relación : (1,N) (Uno a varios)
 
 ![image](https://github.com/user-attachments/assets/f7850849-344b-4065-80ad-6e9b8d29b4e0)
 
+## Entidades Conceptuales
+
+- Cuandos dos relaciones tienen cadinalidades de varios a varios, para una base de datos es muy malo, con lo cuál lo que hacemos es añadir una relación en medios para convertir esa cardinalidad en una de uno a varios. (Se le llama entidad conceptual) (Pudiendo añadir atributos para diferenciarlo mejor)
+
+![image](https://github.com/user-attachments/assets/643ba927-71d5-4be7-9bfb-5c7af1b0ef5c)
+
+![image](https://github.com/user-attachments/assets/cdad2709-4d8f-4201-a478-c809d0a42957)
 
 
+# Software de Diagrama ER
+
+![image](https://github.com/user-attachments/assets/e662d040-38fe-42d4-8bb2-466ffb8d855e)
+
+[Giffly](https://www.gliffy.com/?_gl=1*zbmczq*_gcl_au*MTUwNDk0MDk3NC4xNzI4Mjg1MzIz*_ga*MTU4MTQxNjU2MS4xNzI4Mjg1MzIz*_ga_JRGHPHEJZ1*MTcyODI4NTMyMy4xLjEuMTcyODI4NTQyMS42MC4wLjA)
  
 
 
