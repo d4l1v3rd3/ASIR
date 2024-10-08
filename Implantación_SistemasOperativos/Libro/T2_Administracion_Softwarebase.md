@@ -38,3 +38,24 @@ Cuentas o entidades de seguridad usadas para administrar y proteger el acceso y 
 
 ### Cuenta HelpAssistant
 
+- Cuenta local que viene predeterminada
+- Se usa para conectarse a otro equipo que ejecute Windows iniciandose por invitación.
+
+## Grupos
+
+- Administradores: Posee control total sobre el servidor.
+- Operadores de copia de seguridad: Otorga la capacidad de hacer, recuperar y restaurar copias de seguridad.
+- Operadores criptográficas: Permite realizar operacioes de cifrado/descifrado criptográfico.
+- Ivitados: Perfil temporal que está activo mientra dure la sesión.
+- Operadores de configuración de red: Orientado a que sus miembros puedan realizar modificaciones en la configuración TCP/IP.
+- Usuarios del monitor de sistema: Monitoriza las variables del ssitema para evaluar el rendimiento del equipo.
+- Usuarios del registro de rendimiento: Permisos de este grupo posibilitan la administración de los controladores de rendimiento, alertar y registros.
+- Usuarios avanzados: Mismos permisos que el grupo "usuarios"
+- Usuarios: Tareas de uso del sistema de forma normal.
+- Usuarios de escritorio remoto: Usuarios pueden acceder servidor mediante terminal.
+- Usuarios de COM distribuido: Este grupo puede iniciar, activar y usar objetos COM en un equipo.
+- IIS_IUSRS: Publicación y administración de contenido de IIS
+
+# Seguridad de cuentas de usuario
+
+
