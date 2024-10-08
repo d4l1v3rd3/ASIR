@@ -34,3 +34,4 @@ Apuntes |
 Libro |
 --- |
 [Instalación, configuración y explotación](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md)
+(Administración Software Base)[https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T1.2_Administracion_Softwarebase.md]
