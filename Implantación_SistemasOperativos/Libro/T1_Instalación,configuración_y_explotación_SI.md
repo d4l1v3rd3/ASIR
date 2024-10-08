@@ -183,7 +183,40 @@ Coordinan y administran el funcionamientos de los elementos del sistema (memoria
 
 Sirven a los desarrolladores para crear nuevas aplicaciones y para darle al usuario una forma más óptima
 
-- Traductores: 
+- Traductores: Traduce las instrucciones de una aplicación para que las entienda el ssitema
+
+Intérpretes
+Compiladores
+Ensambladores
+
+- Programas de servicio: Gestión y administración de bloques de datos.
+
+## Licencias y tipos de licencias
+
+Licencias de software propietario: Autorizan el uso del software en función del rol contratado. 
+
+- Licencia de administrador
+- Licencia completa
+- Licencia limitada
+
+Licencia de software libre: Permite ejectura el programa, adaptarlo y modificarlo según necesidaes de cada usuario.
+
+- Con copyleft
+- Sin copyleft
+- GPL
+- BSD
+- OpenSource Initiative
+- Freeware
+- Donationware
+- Shareware
+
+## Gestores de arranque
+
+Softwarte que carga la memoria interna del sistema, diseñado para cargar los elementos que el sistema necesita para iniciarse.
+
+Se ejecuta nada mas cargar el sistema.
+
+
 
 
 
