@@ -58,4 +58,57 @@ Cuentas o entidades de seguridad usadas para administrar y proteger el acceso y 
 
 # Seguridad de cuentas de usuario
 
+- Uso de contraseñas
+- Privilegios
+- Permisos
+
+# Seguridad de contraseñas
+
+# Administración de perfiles locales de usuario
+
+La cuenta de usuario guarda información de los archivos y carpetas a los que el dicho usaurio tiene acceso.
+
+Tener varias cuentas permite compartir recursos desde el mismo equipo.
+
+Usuarios únicos y cumplir una serie de reglas:
+
+- No se admiten caracteres especiales como /, |, :, ;, =, <, >,*
+- No se admiten espacios en blanco.
+- Máximo de 20 caracteres entre letras y números, mayúsculas y minúsculas.
+
+# Configuración del protocolo TPC/IP en un cliente de red. Direcciones IP máscaras de subred
+
+La dirección IP es un código numérico asignado por el proveedor de servicios de internet (ISP)
+
+![image](https://github.com/user-attachments/assets/412f9e75-8de1-4823-8296-401a55319926)
+
+- IPV4 : 4dígitos de 8bits, por lo que puede generar 2 a la 23 direcciones únicas
+- IPV6 : Se compone de 8 grupos de 4 dígitos hexadecimales, 2 a la 128
+
+# Configuración de la resolución de nombres
+
+DNS (Domain Name System) 
+
+Base de datos que traduce los nombres de dominio a IP y viceversa.
+
+Componentes:
+
+- Cliente DNS
+- Servidor DNS
+- Zonas de autoridad: Servidores encargados de resolver un conjunto de dominios.
+
+1 - El navegador pasa la dirección al cliente DNS
+2 - Ese cliente DNS traduce l nombre a una IP
+3 - Búscara primero la tabla caché de nuestro equipo
+4 - Lanzará la consulta del servidor DNS de nuestro router
+5 - Lanzará consulta a uns ervidor DNs fuera de la red
+
+- OpenDNS: Control parental (208.67.222.222)
+- Google DNS: Servidores más rapidos (8.8.8.8 8.8.4.4)
+- Cloudfare: Ofrece certificado SSL compartido (1.1.1.1)
+- Quad9: Oriendtado a la seguridad (9.9.9.9)
+- Verisign Public DNS: Segurida de la conexión (64.6.65.6)
+- DNS.Watch: Centrado en la velocidad (84.200.69.80)
+- AlternateDNS: Filtra anuncion (198.101.242.72)
+
 
