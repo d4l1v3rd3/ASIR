@@ -46,3 +46,103 @@ Es la ciencia que estudia el tratamiento automático y racional de la informaci�
 ## 1.1.3. Sistema informático
 
 La finalidad de un sistema informático es conseguir el mejor tratamiento automático posible de la información. En esta tarea intervienen tres elementos principales.
+
+## Hardware
+
+• El hardware es todo elemento físico, material, del sistema informático como
+puede ser un ordenador, un teclado, una pantalla, soportes de almacenamiento,
+cables de conexión y un largo etc
+
+![image](https://github.com/user-attachments/assets/a53c0aeb-c00a-475b-81ba-4927d7bbb34b)
+
+## Sistema informático. Hardware
+
+Según Von Neumann un ordenador consta de 4 secciones principales:
+
+• la unidad aritmética lógica (ALU)
+• la unidad de control
+• la memoria central
+• los dispositivos de entrada y salida
+
+![image](https://github.com/user-attachments/assets/7f3ae4f2-ee36-41c0-9dc7-ec2ef65b9ae9)
+
+## 1.1.3. Sistema informático. Software
+
+• Es la parte que permite tanto a los usuarios como al personal informático
+interaccionar con la máquina y conseguir así un buen tratamiento de los datos y
+de la información, que es la finalidad de todo sistema informático. Esta parte del
+sistema informático se conoce a como parte lógica.
+
+## 1.1.4. Periféricos. Clasificación
+
+• Periféricos de entrada
+• Periféricos de salida
+• Periféricos de entrada y salida
+• Periféricos de almacenamiento
+• Periféricos de comunicación
+
+
+## 1.1.4.2. Periféricos de salida. Ejemplos
+
+1. Monitor o pantalla
+2. Impresora
+3. Plotter
+4. Altavoces
+5. Auriculares
+6. Fax
+7. Proyector
+
+
+## 1.1.4.3. Periféricos de entrada y salida
+
+Es aquel tipo de dispositivo periférico de un ordenador capaz de interactuar con los
+elementos externos a ese sistema de forma bidireccional, es decir, que permite
+tanto que sea ingresada información desde un sistema externo, como emitir
+información a partir de ese sistema.
+
+## 1.1.4.3. Periféricos de entrada y salida. Ejemplos
+
+1. Pantalla táctil
+2. Impresora multifunción
+3. Cascos realidad virtual
+4. Fax
+5. Pizarra digital
+
+## 1.1.4.4. Periféricos de almacenamiento. Ejemplos
+
+Son los dispositivos que almacenan datos e información.
+
+### Ejemplos:
+
+• Discos ópticos (CD,DVD, Blu-ray Disc)
+• Discos duros convencionales
+• Discos duros SSD
+• Memorias flash
+
+## 1.1.4.5. Periféricos de comunicación. Ejemplos
+
+Su función es permitir la interacción entre dos o más ordenadores, o entre un
+ordenador y otro periférico externo al ordenador.
+
+### Ejemplos:
+
+• Tarjetas de red
+• Concentradores (HUBS)
+• Commutadores de red (switchs)
+• Encaminadores (routers)
+• Sistemas de comunicación inalámbrica ( Wi-fi, lrDA ó Bluetooth)
+
+## 1.1.4.6.1. Conectores y adaptadores para la conexión dedispositivos
+
+Conectores más utilizados:
+
+• VGA (Video Graphics Array)
+• DVI (Digital Visual Interface)
+• Firewire
+• HDMI
+• Thunderbolt
+• Minijack
+• RCA
+• S-Video
+• USB
+
