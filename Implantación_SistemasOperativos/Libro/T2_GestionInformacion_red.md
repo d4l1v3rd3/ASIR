@@ -2,11 +2,16 @@
 
 # ÍNDICE
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Introducción](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#introducción)
+- [Sistema de archivos](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#sistema-de-archivos)
+- [Comandos Windows](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#gestión-de-sistemas-de-archivos-mediante-comandos-y-entornos-gráficos)
+- [Estructura Directorios](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#estructura-de-directorios-de-sistemas-operativos-libres-y-propietarios)
+- [Rendimiento](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#gestión-de-la-información-del-sistema-rendimiento)
+- [Montaje y desmontaje](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#montaje-y-desmontaje-de-dispositivos-en-sistemas-operativos)
+- [Automatización](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#automatización)
+- [Herramientas de administración de discos](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#herramientas-de-administración-de-discos-particiones-y-volúmenes-desfragmentación-y-revisión)
+- [Permisos](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#permisos-locales-de-acceso-a-archivos-y-directorios)
+- [Compresión datos](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md#comprensión-de-datos)
 
 # Introducción
 
