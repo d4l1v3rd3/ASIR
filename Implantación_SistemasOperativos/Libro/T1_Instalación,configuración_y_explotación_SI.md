@@ -16,19 +16,17 @@
 
 # INTRODUCCIÓN
 
-Conoceremos las partes de un sistema informático, comunicación y arquitecturas.
-
-Licencias de software, diferencias prestaciones, código abierto y propietarios.
-
-Una vez todo montado, administraremos el sistema. Configuraremos usuarios y grupos, vulnerabilidades, máquinas virtuales.
+- Partes de un sistema informático, comunicación y arquitecturas.
+- Licencias de software, diferencias prestaciones, código abierto y propietarios.
+- Configuraremos usuarios y grupos, vulnerabilidades, máquinas virtuales.
 
 # INSTALACIÓN DE SOFTWARE LIBRE Y PROPIETARIO
 
 ## ESTRUCTURA Y COMPONENTES DE UN SISTEMA IINFORMÁTICO
 
-- Hardware: Elementos físicos que componen el sistema.
+- Hardware: Todos los elementos físicos que componen el sistema.
 
-Todos los dispositivos giran en torno a la CPU (Unidad central de procesamiento), todo lo que se conecta a esta se denomina "dispositivo periférico". LLegando al microprocesaodr.
+- Todos los dispositivos giran en torno a la CPU (Unidad central de procesamiento), todo lo que se conecta a esta se denomina "dispositivo periférico". LLegando al microprocesaodr.
 
 ### Dispositivos de entrada:
 
@@ -52,9 +50,12 @@ Todos los dispositivos giran en torno a la CPU (Unidad central de procesamiento)
 - Discos duros SSD
 - Tarjetas de memoria
 
-Hay dispositivos como "adaptadores de red, pantallas táctiles" que son de entrada como de salida.
+!! Hay dispositivos como "adaptadores de red, pantallas táctiles" que son de entrada como de salida. !!
 
-Cuanto más reducido y compacto, más fácil de transportar pero mejor rendimiento por calor.
+- Cuanto más reducido y compacto, más fácil de transportar pero mejor rendimiento por calor.
+
+
+# Red 
 
 - Tenemos dos tipos de conexión por red (RJ45/Ethernet) (WIFI)
 
