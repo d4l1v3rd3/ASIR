@@ -2,6 +2,18 @@
 
 # ÍNDICE
 
+- [Introducción](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#introducción)
+- [Estructura y componentes Sistema informático](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#introducción)
+- [Cables red](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#introducción)
+- [Mapa red](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#mapa-físico-y-lógico-de-una-red)
+- [Topología red](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#topología-de-red-disposición-física-de-los-elementos-de-la-red-en-forma-de-dibujo)
+- [Arquitectura SO](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#arquitectura-de-un-sistema-operativo)
+- [Funciones SO](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#funciones-de-un-sistema-operativo)
+- [Tipos de SO](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#tipo-de-sistemas-operativos)
+- [Tipos de aplicaciones](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#tipos-de-aplicaciones)
+- [Licencias](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#licencias-y-tipos-de-licencias)
+- [Gestores de arranque](https://github.com/d4l1v3rd3/ASIR/edit/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md#gestores-de-arranque)
+
 # INTRODUCCIÓN
 
 Conoceremos las partes de un sistema informático, comunicación y arquitecturas.
@@ -44,9 +56,9 @@ Hay dispositivos como "adaptadores de red, pantallas táctiles" que son de entra
 
 Cuanto más reducido y compacto, más fácil de transportar pero mejor rendimiento por calor.
 
-Tenemos dos tipos de conexión por red (RJ45/Ethernet) (WIFI)
+- Tenemos dos tipos de conexión por red (RJ45/Ethernet) (WIFI)
 
-En este caso es la clasificación de cables de red:
+## En este caso es la clasificación de cables de red:
 
 ![image](https://github.com/user-attachments/assets/509de3c8-c796-4e3b-a057-25b3d7960210)
 
@@ -93,7 +105,7 @@ Describe la manera en que fluirá la información dentro de la red.
 
 Describe la forma "real" que compone la red, físicamente ubicados.
 
-- Topología de red: Disposición física de los elementos de la red. En forma de dibujo.
+# Topología de red: Disposición física de los elementos de la red. En forma de dibujo.
 
 ### Topología de bus
 
@@ -216,6 +228,7 @@ Softwarte que carga la memoria interna del sistema, diseñado para cargar los el
 
 Se ejecuta nada mas cargar el sistema.
 
+![image](https://github.com/user-attachments/assets/ab2b8dc0-b051-4b7d-a71a-3e5aa8027e80)
 
 
 
