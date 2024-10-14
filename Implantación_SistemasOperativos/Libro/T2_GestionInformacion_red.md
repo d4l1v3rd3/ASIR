@@ -1,5 +1,15 @@
 <h1 align="center"> Gestión de la información  y de recursos en una red </h1>
 
+# ÍNDICE
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
+# Introducción
+
 - Conoceremos los diferentes sistemas de archivos.
 - Exploraremos las automatizaciones de acciones, monitorizar rendimiento.
 - Permisos usuarios
