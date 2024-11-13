@@ -53,7 +53,9 @@ Residen instruicciones que el procesador debe seguir.
 
 ## Esquema funcional y estructura de un ordenador. Componentes funcionales del sistema informático
 
+![image](https://github.com/user-attachments/assets/63e8cc99-1a75-432f-bad9-a93951a6c02a)
 
+La CPU constituye el núcleo central del ordenador, encargada en el funcionamiento de los demás ocmponentes.
 
 
 
