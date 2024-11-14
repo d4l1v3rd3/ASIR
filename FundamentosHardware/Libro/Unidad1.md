@@ -55,8 +55,20 @@ Residen instruicciones que el procesador debe seguir.
 
 ![image](https://github.com/user-attachments/assets/63e8cc99-1a75-432f-bad9-a93951a6c02a)
 
-La CPU constituye el núcleo central del ordenador, encargada en el funcionamiento de los demás ocmponentes.
+La CPU constituye el núcleo central del ordenador, encargada en el funcionamiento de los demás componentes.
 
+Tipo de funcion que realizan:
+
+- Almacenamiento: Su elemento principal es el biestable o flip-flop, permite adopar dos estados (0 o 1) (síncrona)
+- Operación: operadores en paralelo o operadores en serie, dependiendo el número pueden ser monadicos o didadicos
+- Interconexión: Realizada en bus de conexión, como calles transportan elementos, datos, dirección, control..
+- Unidad Centra del proceso: CPU encragada del control, administración y ejecución de instrucciones
+
+- Registros RI: Alamacenan instrucciones
+- Registros CP: ALmacenan direccion de memoria
+- Registros generales: ALmacenan datos al os que la ALu accede de forma inmediata
+
+- MEmoria: Dividida en valores binarios llamados bits.
 
 
 
