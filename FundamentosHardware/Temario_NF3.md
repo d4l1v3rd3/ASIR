@@ -144,4 +144,11 @@ Diseño:
 Puede ser de dos tipos:
 
 - Vertical, troncal o horizontal
-- 
+
+El cableado troncal comunica plantas de edificio o zonas definidas en la red con conexiones de alta velocidad.
+
+EL cableado de platna distribuye la conexi´çon hasta los equipos finales
+
+
+
+
