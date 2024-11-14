@@ -133,3 +133,15 @@ Diseño:
 
 # Infraestructura de red de un CPD
 
+- Repetidor : Recibe una señar y la retransmite a una potencia más elevada
+- Concentrador o hub Ethernet: Conecta varios cables de par trenzado de moto qeu actúen como un solo segmento de red
+- Puente de red: Conecta segmentos de una red a nivel de datos(Nivel 2) similares a los hubs pe ro hacen tareas como analizar paquetes
+- Conmutados o switch : COnecta segmentos de red (Nivel 2)
+- Enrutadores o Routers : Equipos de red que distribuyen datos entre redes.
+
+## Cableado
+
+Puede ser de dos tipos:
+
+- Vertical, troncal o horizontal
+- 
