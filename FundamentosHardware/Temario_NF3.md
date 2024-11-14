@@ -149,6 +149,17 @@ El cableado troncal comunica plantas de edificio o zonas definidas en la red con
 
 EL cableado de platna distribuye la conexi´çon hasta los equipos finales
 
+- Cables de fibra óptica servidores-almacenamiento
+- Almacenamiento-Red administrativa
+- Servidores-acceso remoto para consola
+- SErvidores-red de produccion
 
+# Cumplimiento de las normas de prevencion de riesgos laborales y protección ambiental
+
+- Dolores de espalda
+- Tensión en los hombres
+- Dolores de cabeza
+- Escozor ojos, sequedad, necesitdad e más tiempo en enfocar
+- Calambres en perinas, incomodidad
 
 
