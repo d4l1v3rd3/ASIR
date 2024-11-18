@@ -34,11 +34,11 @@ Es el contrato entre el programador de software y el usuario
 - Copyright : Derechos de autor forma de protección proporcionada por las leyes vigentes en la mayoría de los países
 - Copyleft : Antítesis del copyright, mediante legislación propia, todo el mundo la puede usar
 
-- Software libre
-- SOftware de código abierto
-- Software abierto
-- Software de prueba
-- Software de propiedad
+- Software libre (free software)
+- SOftware de código abierto (open source)
+- Software abierto (freeware)
+- Software de prueba (shareware)
+- Software de propiedad (privado)
 
 ### Software libre
 
