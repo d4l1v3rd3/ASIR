@@ -49,3 +49,44 @@ Existe una serie de componentes de backup o de emergencia que asegurarán la no 
 
 ## Plantes de copias de seguridad. Programación de copias de seguridad
 
+Windows + I - Actualización y seguridad
+
+![image](https://github.com/user-attachments/assets/bd25e3d7-a060-47cc-8e22-bd8a9674be64)
+
+Copia de seguridad
+
+![image](https://github.com/user-attachments/assets/065c55e9-fbb9-4e96-8616-bc8db59cee06)
+
+![image](https://github.com/user-attachments/assets/75831472-a000-42d8-9c24-ac1ede342da8)
+
+Mas opciones
+
+![image](https://github.com/user-attachments/assets/7e0b8369-fdd9-4f6d-9e73-bb7bbc74d7e5)
+
+## Recuperación en caso de fallo del sistema
+
+- Actualización mal hecha, borrado de archivos clave, virus, mala gestión de particiones
+
+- Restaurar el sistmea
+- Reparación bloque de inicio
+- Reparación de imagen del  sistema
+- SImbolo del sistema
+- Diagnóstico de Windows
+
+## Discos de arranque. Discos de recuperación
+
+Unidad de recuperación
+
+![image](https://github.com/user-attachments/assets/ec8e50fc-a06e-4ed4-abe8-423058beb11c)
+
+Realizar copia de seguridad - siguiente
+
+![image](https://github.com/user-attachments/assets/343af199-9910-46d9-b30b-0ab1f875a208)
+
+![image](https://github.com/user-attachments/assets/7f11abda-a11b-4e60-bc18-f578ca8dccc0)
+
+![image](https://github.com/user-attachments/assets/42585ae7-8165-4201-b4a5-310b249e2f43)
+
+## Copias de seguridad del sistema. Recuperación del sistema mediante consola. Puntos de recuperación
+
+
