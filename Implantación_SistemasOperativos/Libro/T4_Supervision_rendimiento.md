@@ -8,3 +8,5 @@ Se basan en la recogida de datos, por lo que será necesario un módulo o progra
 
 ## Herramientas de monitorización continua
 
+Proceso por el cual se hace un seguimiento continuo de ciertos aspectos clave dentro de la empresa.
+
