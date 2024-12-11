@@ -50,5 +50,8 @@ Libro | Descripción |
 
 <h1 align="center"> Fundamentos Hardware </h1>
 
-Apuntes |
---- |
+Apuntes | Descripción |
+--- | --- |
+[1.Instalación, Configuración y Recuperación de Software](https://github.com/d4l1v3rd3/ASIR/blob/main/FundamentosHardware/Temario_NF1.md) | Software, cliente, aplicación, malware | 
+[2.Creación de imágenes](https://github.com/d4l1v3rd3/ASIR/blob/main/FundamentosHardware/Temario_NF2.md) | Copias de seguridad |
+[3.Virtualización](https://github.com/d4l1v3rd3/ASIR/blob/main/FundamentosHardware/Temario_NF3.md) | Mainframe, Cloud computing, Pc Virtual, CPD |
