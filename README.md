@@ -47,6 +47,7 @@ Libro | Descripción |
 [3.1.Resolución de incidencias](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T3_Resolución_Incidencias.md) | Interpretación, análisis, instalaciones, asistencia |
 [4.1.Aseguramiento Información](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T4_Aseguramiento_Informacion.md) | Seguridad, rendimiento y recursos |
 [4.2.Supervisión Rendimiento](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T4_Supervision_rendimiento.md) | Herramientas de monitorización |
+[4.3.Directivas de seguridad](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T4_DirectivasSeguridad.md) | Herramientas de monitorización, auditorias, análisis |
 
 <h1 align="center"> Fundamentos Hardware </h1>
 
