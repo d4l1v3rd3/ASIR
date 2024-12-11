@@ -32,15 +32,21 @@ Comandos | Descripción
 
 <h1 align="center"> Implantación Sistemas operativos </h1>
 
-Apuntes |
---- |
-[Software Y Propietario](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Apuntes/1_SoftwareYPropietario_BloqueI.md)
-Libro |
-[1.1 Instalación, configuración y explotación](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md)
-[1.2 Administración Software Base](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T1.2_Administracion_Softwarebase.md)
-[2.1 Gestión Información Red](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md)
-[2.2 Administración de dominios](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2.2_Administración%20de%20dominios.md)
-[2.3 Administración del acceso al dominio](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2.3_Adminsitración_Acceso_Dominio.md)
+Apuntes | Descripción |
+--- | --- |
+[1.Software Y Propietario](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Apuntes/1_SoftwareYPropietario_BloqueI.md) | Información, elementos, representación, etc |
+[2.Administración y Información](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Apuntes/2_Administraciónyinformacion.md) | Sistema de archivos |
+[3.Implantación de Software](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Apuntes/3_Implatación_Software.md) | Asistencia a usuarios, licencias, servidores de actualizaciones |
+[Raids](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Apuntes/RAIDS.md) | Unidades de disco conectacas en paralelo |
+Libro | Descripción |
+[1.1 Instalación, configuración y explotación](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T1_Instalación%2Cconfiguración_y_explotación_SI.md) | Estructura, cables, mapa red, topolofía, estructura, arquitectura |
+[1.2 Administración Software Base](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T1.2_Administracion_Softwarebase.md) | Usuarios y grupos, seguridad de contraseñas, TCP/IP, DNS |
+[2.1 Gestión Información Red](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2_GestionInformacion_red.md) | Sistema archivos, comandos windows, directorios, rendimiento |
+[2.2 Administración de dominios](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2.2_Administración%20de%20dominios.md) | Estructura cliente-servidor, dominios, subdominios |
+[2.3 Administración del acceso al dominio](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T2.3_Adminsitración_Acceso_Dominio.md) | Equipos dominio, permisos, sistema, acceso |
+[3.1.Resolución de incidencias](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T3_Resolución_Incidencias.md) | Interpretación, análisis, instalaciones, asistencia |
+[4.1.Aseguramiento Información](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T4_Aseguramiento_Informacion.md) | Seguridad, rendimiento y recursos |
+[4.2.Supervisión Rendimiento](https://github.com/d4l1v3rd3/ASIR/blob/main/Implantación_SistemasOperativos/Libro/T4_Supervision_rendimiento.md) | Herramientas de monitorización |
 
 <h1 align="center"> Fundamentos Hardware </h1>
 
