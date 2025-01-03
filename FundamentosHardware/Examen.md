@@ -135,4 +135,39 @@ Referencia a dimensiones, forma y especificaciones físicas del hardware.
 
 ## Placa base
 
-- R
+- Reloj: Regusta y gestiona la velocidad en ejecución
+- Memoria CMOS: Almacena información de estado imporante para el equipo
+- Conectores de tensión: Repartir la energía
+- BIOS: Software grabado en memoria no volátil
+- Buses de interconexión:
+- Conectores de E/S
+- Bahías
+- Socket de CPU
+- Ranuras memoria
+- Chipset
+
+ATX o AT dependiendo del factor de forma
+
+## Procesadores y memorias
+
+- DRAM
+- SRAM
+- SDRAM
+- DDRAM
+
+Tarjeta gráfica : VRAM
+
+## Dipositivos de Almacenamiento
+
+- PATA
+- SATA
+- SCSI
+- HDD
+- SSD
+
+# Preguntas Ejercicio
+
+
+
+
+
