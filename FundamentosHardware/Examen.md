@@ -133,3 +133,6 @@ Referencia a dimensiones, forma y especificaciones físicas del hardware.
 
 - Chasis, alimentación y refrigeración. 
 
+## Placa base
+
+- R
