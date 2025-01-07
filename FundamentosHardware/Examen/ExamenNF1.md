@@ -173,6 +173,12 @@ La secuencia de arranque empieza cuando la BIOS encuentra un disco duro con un s
 
 Existe una alternativa a la BIOS y es la UEFI escrita en C
 
+# Mantenimiento
+
+- Mantenimiento predictivo
+- Mantenimiento preventivo
+- Mantenimiento Correctivo
+
 # Preguntas Ejercicio
 
 ## Indica cual es una de las funciones del registro de condición de la CPU:
