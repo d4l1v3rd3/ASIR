@@ -175,9 +175,9 @@ Existe una alternativa a la BIOS y es la UEFI escrita en C
 
 # Mantenimiento
 
-- Mantenimiento predictivo
-- Mantenimiento preventivo
-- Mantenimiento Correctivo
+- Mantenimiento predictivo: Adelantarnos a la incidencia
+- Mantenimiento preventivo: Evitar problemas y alargar la vida del sistema
+- Mantenimiento Correctivo: Ya pasada la incidencia
 
 # Preguntas Ejercicio
 
