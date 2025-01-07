@@ -167,7 +167,64 @@ Tarjeta gráfica : VRAM
 
 # Preguntas Ejercicio
 
+## Indica cual es una de las funciones del registro de condición de la CPU:
 
+```
+Guardan códigos de condición, generados como resultado de determinadas operaciones
+```
 
+## La placa base de nuestro pc es:
+
+```
+Un elemento donde coexisten elementos electrónicos como condensadores, resistencias, etc. y permite que la corriente de la fuente de alimentación se reparta de manera correcta entre los elementos que necesitan una determinada tensión para funcionar
+```
+
+## El bus de dirección tiene entre otras funciones la de:
+
+```
+Transmite direcciones entre CPU y memoria
+```
+
+## Indica cual es una de las funciones del registro de dirección de la CPU
+
+```
+Contienen las direcciones de memoria  donde se encuentran los datos
+```
+
+## Qué es el Overclocking
+
+```
+Consiste en forzar los componentes del equipo para que trabajen a una velocidad más rápida que la fijada por fábrica con el objetivo de mejorar el rendimiento del equipo
+```
+
+## Indica cual es la función del registro de datos de la CPU:
+
+```
+Guardan los datos con los que trabaja la CPU
+```
+
+## La alternativa a la BIOS que esta escrita en C y es más actual se conoce como
+
+```
+UEFI
+```
+
+## El bus de datos tiene entre otras la función de
+
+```
+Intercambia datos entre la CPU y las unidades
+```
+
+## Cuando hablamos de la memoria propia de la tarjeta gráfica y que es independiente de la memoria propia del ordenador esta memoria es conocida como
+
+```
+Memoria VRAM
+```
+
+## El bus de control tiene entre otra la función de
+
+```
+Controla los elementos de la CPU
+```
 
 
