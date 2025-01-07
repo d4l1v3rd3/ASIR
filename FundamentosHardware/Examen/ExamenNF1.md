@@ -150,12 +150,14 @@ ATX o AT dependiendo del factor de forma
 
 ## Procesadores y memorias
 
-- DRAM
-- SRAM
-- SDRAM
-- DDRAM
+- DRAM: Gran capacidad de almacenamiento, necesita refrescarse con cada ciclo de reloj.
+- SRAM: Menos capacidad que la DRAM pero más rpápida.
+- SDRAM: Tiene las ventajas de las dos anteriores.
+- DDRAM: Se actualiza un par de veces por cada ciclo de reloj. Doble de rápida.
 
-Tarjeta gráfica : VRAM
+
+Tarjeta gráfica : VRAM (Memoria RAM interna de la tarjeta gráfica) posterior SGDRAM
+
 
 ## Dipositivos de Almacenamiento
 
