@@ -171,6 +171,8 @@ Tarjeta gráfica : VRAM (Memoria RAM interna de la tarjeta gráfica) posterior S
 
 La secuencia de arranque empieza cuando la BIOS encuentra un disco duro con un sitema operativo, lo carga a la memoria principal y lanza la parte gráfica (interfaz)
 
+Existe una alternativa a la BIOS y es la UEFI escrita en C
+
 # Preguntas Ejercicio
 
 ## Indica cual es una de las funciones del registro de condición de la CPU:
