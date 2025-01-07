@@ -29,5 +29,67 @@
 - Espejo: Refleja todos y cada uno de los comportamientos de al fuente
 - Sintética completa: Realiza una réplica de una copia completa.
 
+# Preguntas
+
+### Cuando hablamos de compatibilidad ¿De qué concepto estamos hablando.?
+
+```
+Nuestro sistema ha de ser (y asegurarnos que lo va a ser en el futuro, en la medida de lo posible) compatible con las características de la aplicación y que no va a tener problema en hacerlo funcionar
+```
+
+### Señala la opción correcta
+
+```
+Los Ransomware son los malware más peligrosos para nuestra empresa
+```
+
+### ¿Qué no compone un entorno operativo?
+
+```
+Ninguna es correcta
+```
+
+### Qué tipos de COMPRESIÓN existen?
+
+```
+Con perdida y sin perdida 
+```
+
+### En que RAID aparece el concepto de Paridad
+
+```
+RAID 5
+```
+
+### Selecciona que respuesta está relacionada con los puntos de restauración
+
+```
+Es una “foto “ de nuestro sistema 
+```
+
+### Un problema de un disco duro fragmentado provoca es
+
+```
+La lectura y escritura de archivos se ralentiza e Inutiliza espacio del disco duro
+```
+
+### Los troyanos…
+
+```
+Son parametrizables 
+```
+
+### El orden correcto para restaurar un backups sería.
+
+```
+Copias totales ---copias diferenciales – copias incrementales
+```
+
+### En qué tipo de RAID aparece el concepto de discos espejos.
+
+```
+RAID 1
+```
+
 
 
