@@ -161,9 +161,9 @@ Tarjeta gráfica : VRAM (Memoria RAM interna de la tarjeta gráfica) posterior S
 
 ## Dipositivos de Almacenamiento
 
-- PATA
-- SATA
-- SCSI
+- PATA 
+- SATA : Remplazan PATA
+- SCSI 
 - HDD
 - SSD
 
