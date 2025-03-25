@@ -108,9 +108,34 @@ Estructura de control de tipo bucle = Foreach (Permite recorrer de manera sencil
 $personas = array ("Olga", "Juan", "Luis", "Ana");
 
 foreach ($personas as $i) { #Coge cada valor de todos los elemenots de la array
+    if($i=="Luis") break # en este caso paramos el bucle cuando llega a Luis
     echo "$i <br>"; # Outputeamos los elementos en pantalla
 }
 ?>
+```
+
+# Leer fichero XML con PHP
+
+### simplexml_load_file
+
+Convierete un fichero xml en un objeto
+
+```
+<?php
+$xml=simplexml_load_file("fichero.xml");
+
+//acceder a los datos
+foreach($xml->persona as $persona){  # cogemos la variable y recorremos los elementos persona y creamos otra variable
+  $nombre = $persona->nombre;
+  $edad = $persona->edad;
+  echo "$nombre tiene $edad años.<br>";
+}
+?>  
+```
+
+
+
+
 
 
 
