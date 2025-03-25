@@ -43,5 +43,32 @@ String, Integrer, Float, Booleano, Array, Objeto, NULL, recurso
 ?>
 ```
 
+## Procesar
+
+```
+<?php
+  echo $_POST['nombre'];
+  echo $_POST['email'];
+?>
+```
+
+# Arrays, Condicionales y bucles
+
+### Array
+
+- Array: Es una variable especial que permite contener muchos valores con un único nombre
+- Para acceder a los valores de un array se utiliza un índice numérico que se indica con 0.
+
+```
+$nombres = array ("Eva", "Toni", "Olga", "Juan");
+
+echo $nombres[2];
+```
+
+## Estructuras de control
+
+- Condicionales : if, else, elseif, switch
+- Bucles o iteraciones: for, while, do while
+
 
 
