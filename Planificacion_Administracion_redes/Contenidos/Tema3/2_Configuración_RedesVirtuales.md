@@ -72,5 +72,36 @@ Enlace troncal y sub interfaces
 
 ![image](https://github.com/user-attachments/assets/b88f63a5-3580-4dbe-a0f6-8c46feb6161a)
 
-Esta técnicas se conoce como router-on-a-strick y utiliza en el router sub interfaces virtuales para superar las limitaciones de disponer de un número finito de interfaces físicas en los dispostivos.
+Esta técnica se conoce como router-on-a-strick y utiliza en el router sub interfaces virtuales para superar las limitaciones de disponer de un número finito de interfaces físicas en los dispostivos.
 
+![image](https://github.com/user-attachments/assets/ed77f33f-15f0-4925-9949-1cba698b3ce1)
+
+![image](https://github.com/user-attachments/assets/65f2af48-5833-4dc1-90c9-0db92bf15dcf)
+
+## Protocolos de adminsitración centralizadada de VLAN
+
+VTP (Virtual Trunking Protocol) Permite configurar VLAN de manera centralizada, propagando la configuración de las VLAN a los conmutadores de la red. 
+
+Modos de funcionamiento.
+
+- Modo servidor: Modificar, crear o eliminar, transmitido al resto
+- Modo cliente: No permite crear, modificar o eliminar las LVAN, solo sincronizarse
+- Modo transparente: Manera similar al cliente, solo se modificar de manera local y no se procesa
+
+![image](https://github.com/user-attachments/assets/b56f052e-187f-4d1b-8d13-7135827f83e6)
+
+![image](https://github.com/user-attachments/assets/2d8f2d53-caf4-4237-83a1-a89feb5e1933)
+
+![image](https://github.com/user-attachments/assets/52d17036-31c6-4a34-8cea-253393fd5619)
+
+DTP (Dynamic Trunking Protocol), Se encarga de sincronizar el funcionamiento de las interfaces que unen dos conmutadores.
+
+- Modo Acess: Coloca el puerto en modo no troncal
+- Modo Dynamic auto: Queda a disposció nde negociar la configuración
+- Dynamic desirable: Puerot intenta activamente pasar a modo troncal
+- Trunk: Establece la interfaz como troncal
+- Nonegotiate: No envía tramas DTP, y solo se configura el enlace com otroncal si al otra interfaz se configura como troncal.
+
+![image](https://github.com/user-attachments/assets/241014bd-d491-4142-9c33-2b2abbd8b464)
+
+![image](https://github.com/user-attachments/assets/ead80829-fd10-4aeb-b783-9e4133deef33)
